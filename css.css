@@ -1,0 +1,115 @@
+.main1 img{
+    width: 100px;
+}
+.main2{
+    
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    direction: ltr;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-size: 14px;
+    line-height: 18px;
+    -webkit-text-size-adjust: none;
+    cursor: pointer;
+    margin: 0 auto;
+    max-width: 416px;
+    padding: 0 16px;
+    
+}
+
+.PS{
+width: 100%;
+height: 35PX;
+border: 1PX solid rgb(180, 180, 180);
+
+
+border-radius: 3PX;
+margin: 5PX;
+padding: 2;
+background-color: #f5f6f7;
+padding: 5 16px;
+font-size: 14px;
+line-height: 18px;
+}
+
+.SANDF{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 33PX;
+    border: 1PX solid #1877f2;
+    
+    
+    border-radius: 6PX;
+    margin: 5PX;
+    
+    background-color: #1877f2;
+    margin-left: 3%;
+    font-family: Roboto, 'Droid Sans', Helvetica, sans-serif;
+    font-size: 17px;
+    height: 40px;
+    line-height: 40px;
+    
+
+
+}
+
+
+.nasit a{
+    color: #1877f2;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 14PX;
+    
+}
+
+
+.nasit a:link {
+    text-decoration: none;
+
+
+  }
+
+.HADGS1{
+    display: flex;
+    width: 45%;
+    height: 1PX;
+    background-color: rgb(206, 205, 205);
+    margin-top: 8PX;
+
+}
+.PH{
+    margin-top: 4PX;
+    display: flex
+    
+}
+p{
+    margin-top: -1px;
+    margin-left: 3PX;
+    color: rgb(201, 199, 199);
+
+}
+.HADGS2{
+    display: flex;
+    width: 45%;
+    height: 1PX;
+    background-color: rgb(206, 205, 205);
+    margin-top: 8PX;
+    margin-left: 3PX;
+}
+
+.br input{
+    width: 200PX;
+    height: 40px;
+
+    color: rgb(255, 255, 255);
+    background-color: #49b833;
+    border: 1px solid #49b833;
+    border-radius: 3px;
+    margin-top:23PX;
+    
+}
+
+
+
+
